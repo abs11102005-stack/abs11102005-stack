@@ -1,3 +1,5 @@
+<img src="image.jpg" alt="Description of image">
+
 <h1 align="center">Hi 👋, I'm Abu Bakar Siddique</h1>
 <h3 align="center">A passionate learner</h3>
 
