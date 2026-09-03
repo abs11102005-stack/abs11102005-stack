@@ -21,3 +21,17 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abs11102005-stack&show_icons=true&locale=en" alt="abs11102005-stack" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abs11102005-stack&" alt="abs11102005-stack" /></p>
+## Dependencies  
+List required dependencies or major libraries:
+```json
+{
+  "react": "^18.x",
+  "express": "^4.x",
+  "mongoose": "^7.x",
+  "tailwindcss": "^3.x"
+}
+```
+## Tech Stack  
+**Frontend:** React.js · Tailwind CSS · TypeScript  
+**Backend:** Node.js · Express.js · MongoDB  
+**Tools:** Git · VS Code · Firebase · JWT
