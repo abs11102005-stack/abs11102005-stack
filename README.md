@@ -1,4 +1,4 @@
-<img src="[image.jpg](https://github.com/abs11102005-stack/abs11102005-stack/blob/main/Github-Banner.jpg)" alt="Description of image">
+<img src="[image.jpg](https://github.com/abs11102005-stack/abs11102005-stack/blob/main/Github-Banner.jpg)">
 
 <h1 align="center">Hi 👋, I'm Abu Bakar Siddique</h1>
 <h3 align="center">A passionate learner</h3>
